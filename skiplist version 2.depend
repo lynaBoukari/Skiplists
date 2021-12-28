@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1554884454 source:c:\users\hp\documents\version 2  skiplist\skiplist version 2\aff2.c
+
+1554991305 source:c:\users\hp\documents\version 2  skiplist\skiplist version 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<limits.h>
+	"aff2.h"
+
+1554991705 c:\users\hp\documents\version 2  skiplist\skiplist version 2\aff2.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

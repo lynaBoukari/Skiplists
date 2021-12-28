@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1555795884 source:c:\users\hp\documents\skiplist boukari laouici g01\skiplist boukari laouici g01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<limits.h>
+	"aff2.h"
+
+1554991705 c:\users\hp\documents\skiplist boukari laouici g01\skiplist boukari laouici g01\aff2.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1555795884 source:c:\users\hp\documents\skiplist boukari laouici g01\skiplist boukari laouici g01 derniere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<limits.h>
+	"aff2.h"
+
+1561410406 c:\users\hp\documents\skiplist boukari laouici g01\skiplist boukari laouici g01 derniere\aff2.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
